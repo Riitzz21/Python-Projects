@@ -1,5 +1,5 @@
 """
-Challenge : Simple Bill Spliter
+Challenge : Simple Bill Splitter
 
 Write a python script that helps split a bill evenly between friends.
 
