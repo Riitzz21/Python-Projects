@@ -1,42 +1,40 @@
-# 💰 Day 3 - Simple Bill Splitter
+# ⏱️ Day 4 - Minutes Alive Calculator
 
 ## 📌 Project Description
 
-A simple Python program that helps users split a bill equally among a group of people. The program collects the names of all group members, accepts the total bill amount, calculates each person's share, and displays the results in a clean and easy-to-read format.
+The **Minutes Alive Calculator** is a simple Python program that calculates the approximate number of minutes a person has been alive based on their age in years. It provides a fun way to understand how basic mathematical calculations can be applied to real-life scenarios.
+
+---
 
 ## 🚀 Features
 
-- Accepts the number of people in the group.
-- Stores each person's name.
-- Accepts the total bill amount.
-- Calculates the bill equally for everyone.
-- Rounds the result to 2 decimal places.
-- Handles invalid bill amount input using exception handling.
-- Displays a decorative bill summary.
+- Accepts the user's age in years.
+- Calculates the approximate number of minutes lived.
+- Displays the result in a clear and readable format.
+- Uses simple mathematical calculations.
+- Beginner-friendly command-line application.
+
+---
 
 ## 🛠️ Concepts Used
 
 - Variables
-- Lists
-- Loops
-- Functions
-- Exception Handling (`try-except`)
 - User Input
 - Arithmetic Operators
+- Mathematical Calculations
 - String Formatting
-- `round()` Function
+- Print Statements
+
+---
 
 ## 📚 What I Learned
 
-- Creating reusable functions.
-- Handling invalid user input using exception handling.
-- Working with lists and loops.
-- Performing mathematical calculations.
-- Formatting output for better readability.
-- Building a real-world beginner Python application.
+- Taking user input in Python.
+- Performing arithmetic calculations.
+- Working with variables and expressions.
+- Displaying formatted output.
+- Building a practical real-world Python application.
 
 ---
+
 Developed as part of my **Daily Python Projects Challenge** 🐍✨
-
----
-Developed as part of my Daily Python Projects Challenge.
