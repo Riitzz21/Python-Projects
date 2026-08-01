@@ -1,18 +1,18 @@
-# ⏱️ Day 4 - Minutes Alive Calculator
+# 😊 Day 5 - Emoji Enhancer for Messages
 
 ## 📌 Project Description
 
-The **Minutes Alive Calculator** is a simple Python program that calculates the approximate number of minutes a person has been alive based on their age in years. It provides a fun way to understand how basic mathematical calculations can be applied to real-life scenarios.
+The **Emoji Enhancer for Messages** is a simple Python program that makes text messages more expressive by adding suitable emojis. The program accepts a user's message, processes it, and enhances it with matching emojis to create a more engaging and fun output.
 
 ---
 
 ## 🚀 Features
 
-- Accepts the user's age in years.
-- Calculates the approximate number of minutes lived.
-- Displays the result in a clear and readable format.
-- Uses simple mathematical calculations.
-- Beginner-friendly command-line application.
+- Accepts a message from the user.
+- Enhances the message with relevant emojis.
+- Improves the appearance of plain text.
+- Easy-to-use command-line application.
+- Beginner-friendly and fun project.
 
 ---
 
@@ -20,20 +20,22 @@ The **Minutes Alive Calculator** is a simple Python program that calculates the 
 
 - Variables
 - User Input
-- Arithmetic Operators
-- Mathematical Calculations
-- String Formatting
-- Print Statements
+- Strings
+- Conditional Statements (`if-elif-else`)
+- Dictionaries (if used)
+- Functions (if used)
+- String Manipulation
+- Print Formatting
 
 ---
 
 ## 📚 What I Learned
 
-- Taking user input in Python.
-- Performing arithmetic calculations.
-- Working with variables and expressions.
-- Displaying formatted output.
-- Building a practical real-world Python application.
+- Working with string operations in Python.
+- Processing user input.
+- Using conditional logic to customize output.
+- Creating fun and interactive Python applications.
+- Improving program readability and user experience.
 
 ---
 
