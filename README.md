@@ -1,40 +1,43 @@
-# 📖 Day 6 - Daily Learning Journal Logger
+# 📋 Day 7 - Terminal-Based Task List Manager
 
 ## 📌 Project Description
 
-The **Daily Learning Journal Logger** is a simple Python application that allows users to record their daily learning experiences, notes, or achievements. It helps maintain a personal learning journal by storing entries in a structured and organized way.
+The **Terminal-Based Task List Manager** is a Python command-line application that helps users organize and manage their daily tasks. Users can add, view, update, and remove tasks directly from the terminal, making it a simple yet effective productivity tool.
 
 ---
 
 ## 🚀 Features
 
-- Accepts daily learning notes from the user.
-- Records the learning date or session.
-- Stores journal entries for future reference.
-- Displays a confirmation after saving the entry.
-- Simple and beginner-friendly command-line application.
+- ➕ Add new tasks.
+- 📄 View all saved tasks.
+- ✏️ Update existing tasks.
+- ❌ Delete completed or unwanted tasks.
+- 💾 Store tasks for future use (if file handling is implemented).
+- 🖥️ Easy-to-use terminal interface.
 
 ---
 
 ## 🛠️ Concepts Used
 
 - Variables
-- User Input
-- Strings
-- File Handling
+- Lists
+- Loops
+- Conditional Statements
 - Functions
+- User Input
+- File Handling (if implemented)
 - String Formatting
-- Print Statements
 
 ---
 
 ## 📚 What I Learned
 
-- Working with file handling in Python.
-- Reading from and writing to text files.
-- Organizing user input into meaningful records.
-- Building a practical productivity application.
-- Improving program structure using functions.
+- Managing collections of data using lists.
+- Building menu-driven terminal applications.
+- Creating reusable functions.
+- Working with loops and conditions.
+- Organizing code for better readability.
+- Improving user interaction through a command-line interface.
 
 ---
 
