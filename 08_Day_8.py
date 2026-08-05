@@ -40,7 +40,12 @@ def check_password_strength(password):
 
 def generate_strong_password(length = 12):
     chars = string.ascii_letters + string.digits + string.punctuation
-    
+
+    # chars_lower = "abcdefghijklmnopqrstuvwxyz"
+    # chars_upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    # chars_digit = 123456789
+    # chars_string = "@#$%&"
+
     return "".join( random.choice(chars) for _ in range(length))
 
 password = getpass.getpass("Enter a password : ")

@@ -1,44 +1,40 @@
-# 🔒 Day 8 - Password Strength Checker & Suggestion Tool
+# ⏳ Day 9 - Set a Countdown Timer
 
 ## 📌 Project Description
 
-The **Password Strength Checker & Suggestion Tool** is a Python program that evaluates the strength of a user's password based on common security criteria. It also provides suggestions to help users create stronger and more secure passwords.
+The **Set a Countdown Timer** is a Python command-line application that allows users to set a timer by entering a duration in seconds. The program counts down in real time and displays the remaining time until it reaches zero, notifying the user when the countdown is complete.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 Accepts a password from the user.
-- 📊 Checks password strength.
-- ✅ Validates password length.
-- 🔡 Detects uppercase and lowercase letters.
-- 🔢 Checks for numeric digits.
-- ✨ Identifies special characters.
-- 💡 Provides suggestions to improve weak passwords.
-- 🖥️ Beginner-friendly command-line interface.
+- ⏱️ Accepts countdown time from the user.
+- 🔄 Displays the remaining time every second.
+- ⌛ Updates the countdown in real time.
+- 🎉 Displays a completion message when the timer ends.
+- 🖥️ Simple and interactive terminal interface.
 
 ---
 
 ## 🛠️ Concepts Used
 
 - Variables
-- Strings
-- Conditional Statements
+- User Input
 - Loops
 - Functions
-- String Methods
-- Boolean Logic
-- User Input
+- Time Module (`time.sleep`)
+- Arithmetic Operations
+- String Formatting
 
 ---
 
 ## 📚 What I Learned
 
-- Validating user input.
-- Working with string methods.
-- Applying conditional logic.
-- Building a practical security-focused application.
-- Improving user experience with meaningful suggestions.
+- Working with Python's `time` module.
+- Creating real-time countdowns.
+- Using loops for repeated execution.
+- Formatting time for better readability.
+- Building interactive terminal applications.
 
 ---
 
