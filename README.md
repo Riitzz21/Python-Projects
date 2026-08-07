@@ -2,54 +2,55 @@
 
 Welcome to my **Daily Python Projects** repository! 🚀
 
-This repository documents my journey of learning Python by building **one project every day**. My goal is to strengthen my programming skills through consistent practice and hands-on projects.
+This repository documents my journey of learning Python by building **one project every day**. My goal is to improve my Python skills, strengthen my problem-solving ability, and build a professional GitHub portfolio.
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 Hi, I'm **Rajeshwari Vyas**.
 
-I'm passionate about programming and currently improving my Python skills by building practical projects every day. This repository showcases my progress, learning, and consistency.
+🎓 MCA (AI & ML) Student
+
+💻 Passionate about Python Programming
+
+🚀 Currently building **100 Python Projects**
 
 ---
 
 # 🎯 Challenge Goal
 
-✅ Build **100 Python Projects**
-
-✅ Learn by doing
-
-✅ Improve problem-solving skills
-
-✅ Build a strong GitHub portfolio
+- ✅ Build 100 Python Projects
+- ✅ Learn by Building
+- ✅ Improve Problem Solving
+- ✅ Become a Better Python Developer
+- ✅ Build a Professional GitHub Portfolio
 
 ---
 
-# 📅 Project Progress
+# 📅 Projects
 
-| Day | Project Name | Status |
-|-----|--------------|--------|
-| Day 1 | Self-Intro Script Generator | ✅ |
-| Day 2 | Stylish Bio Generator | ✅ |
-| Day 3 | Simple Bill Splitter | ✅ |
-| Day 4 | Minutes Alive Calculator | ✅ |
-| Day 5 | Emoji Enhancer for Messages | ✅ |
-| Day 6 | Daily Learning Journal Logger | ✅ |
-| Day 7 | Terminal-Based Task List Manager | ✅ |
-| Day 8 | Password Strength Checker & Suggestion Tool | ✅ |
-| Day 9 | Set a Countdown Timer | ✅ |
-| Day 10 | Secret Message Encrypter & Decrypter | ✅ |
+| Day | Project | Link |
+|-----|---------|------|
+| ✅ Day 01 | Self-Intro Script Generator | [Open](./Day_01/) |
+| ✅ Day 02 | Stylish Bio Generator | [Open](./Day_02/) |
+| ✅ Day 03 | Simple Bill Splitter | [Open](./Day_03/) |
+| ✅ Day 04 | Minutes Alive Calculator | [Open](./Day_04/) |
+| ✅ Day 05 | Emoji Enhancer for Messages | [Open](./Day_05/) |
+| ✅ Day 06 | Daily Learning Journal Logger | [Open](./Day_06/) |
+| ✅ Day 07 | Terminal-Based Task List Manager | [Open](./Day_07/) |
+| ✅ Day 08 | Password Strength Checker & Suggestion Tool | [Open](./Day_08/) |
+| ✅ Day 09 | Set a Countdown Timer | [Open](./Day_09/) |
+| ✅ Day 10 | Secret Message Encrypter & Decrypter | [Open](./Day_10/) |
+| ✅ Day 11 | Friendship Compatibility Calculator | [Open](./Day_11/) |
 
 ---
 
-# 🛠️ Skills & Concepts Practiced
+# 🛠️ Skills Learned
 
-- Python Basics
 - Variables
 - Data Types
 - User Input
-- Arithmetic Operations
 - Conditional Statements
 - Loops
 - Functions
@@ -67,24 +68,36 @@ I'm passionate about programming and currently improving my Python skills by bui
 # 📂 Repository Structure
 
 ```text
-Python-Projects/
+Python-Projects
 │
 ├── README.md
-├── Day-01/
-├── Day-02/
-├── Day-03/
-├── Day-04/
-├── Day-05/
-├── Day-06/
-├── Day-07/
-├── Day-08/
-├── Day-09/
-└── Day-10/
+│
+├── Day_01
+├── Day_02
+├── Day_03
+├── Day_04
+├── Day_05
+├── Day_06
+├── Day_07
+├── Day_08
+├── Day_09
+├── Day_10
+└── Day_11
 ```
 
 ---
 
-# 🚀 Technologies Used
+# 📈 Progress
+
+```text
+███████████░░░░░░░░░░░░░░░░░░░░░░░ 11%
+```
+
+🎯 **11 / 100 Projects Completed**
+
+---
+
+# 🚀 Technologies
 
 - 🐍 Python
 - 💻 VS Code
@@ -93,31 +106,17 @@ Python-Projects/
 
 ---
 
-# 🌟 What I'm Learning
-
-Through this challenge, I'm improving my:
-
-- Python Programming
-- Logical Thinking
-- Problem Solving
-- Code Organization
-- Git & GitHub Workflow
-- Project Development
-
----
-
-# 📈 Current Progress
-
-🎯 Projects Completed: **10/100**
-
-🔥 Current Streak: **10 Days**
-
-🚀 Goal: **100 Days**
-
----
-
-## ⭐ Thank You
+# ⭐ Thank You
 
 Thank you for visiting my repository!
 
-If you like my work, feel free to ⭐ star this repository and follow my learning journey.
+If you like my work, feel free to ⭐ star this repository and follow my Python learning journey.
+
+Happy Coding! 🚀🐍
+
+
+
+
+
+
+
