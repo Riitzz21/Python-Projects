@@ -1,0 +1,17 @@
+[
+  {
+    "title": "phir hera pheri",
+    "genre": "comedy",
+    "rating": 10.0
+  },
+  {
+    "title": "from",
+    "genre": "sifi",
+    "rating": 10.0
+  },
+  {
+    "title": "spider man",
+    "genre": "action",
+    "rating": 10.0
+  }
+]
