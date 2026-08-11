@@ -30,7 +30,7 @@ from datetime import datetime
 import requests
 
 FILENAME = "weather_logs.csv"
-API_KEY = "4445e29cf6e0baa5afc2418e0236f5c0"
+API_KEY = "Get your own API_KEY."
 
 # keys are usually hidden in .env file but that is for later
 
