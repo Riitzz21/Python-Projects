@@ -57,7 +57,7 @@ def visualize_weather():
 
     # Weather conditions graph
     plt.figure(figsize=(7, 5))
-    plt.bar(conditions.keys(), conditions.values(), color='skyblue')
+    # plt.bar(conditions.keys(), conditions.values(), color='skyblue')
 
     plt.xlabel("Condition")
     plt.ylabel("Days")
