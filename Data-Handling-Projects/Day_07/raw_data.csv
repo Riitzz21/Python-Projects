@@ -1,0 +1,6 @@
+id, name, email, location, is_active
+201, John Doe, johndoe@gmail.com, New York, True
+202, Jane Smith, janesmith@gmail.com, Los Angeles, False
+203, Alice Johnson, alice@gmail.com, Chicago, True
+204, Bob Brown, bobbrown@gmail.com, Houston, True
+205, Charlie Davis, charlie@gmail.com, Phoenix, False

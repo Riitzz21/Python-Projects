@@ -1,0 +1,37 @@
+[
+  {
+    "id": "201",
+    " name": " John Doe",
+    " email": " johndoe@gmail.com",
+    " location": " New York",
+    " is_active": " True"
+  },
+  {
+    "id": "202",
+    " name": " Jane Smith",
+    " email": " janesmith@gmail.com",
+    " location": " Los Angeles",
+    " is_active": " False"
+  },
+  {
+    "id": "203",
+    " name": " Alice Johnson",
+    " email": " alice@gmail.com",
+    " location": " Chicago",
+    " is_active": " True"
+  },
+  {
+    "id": "204",
+    " name": " Bob Brown",
+    " email": " bobbrown@gmail.com",
+    " location": " Houston",
+    " is_active": " True"
+  },
+  {
+    "id": "205",
+    " name": " Charlie Davis",
+    " email": " charlie@gmail.com",
+    " location": " Phoenix",
+    " is_active": " False"
+  }
+]
