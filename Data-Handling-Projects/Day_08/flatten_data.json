@@ -1,0 +1,10 @@
+{
+  "user.id": 1,
+  "user.name": "Ritzz",
+  "user.email": "ritzz@gmail.com",
+  "user.address.city": "Indore",
+  "user.address.pincode": 453001,
+  "Roles.0": "Admin",
+  "Roles.1": "Editor",
+  "is_active": true
+}

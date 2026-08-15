@@ -1,0 +1,13 @@
+{
+  "user" : {
+      "id" : 1,
+      "name" : "Ritzz",
+      "email" : "ritzz@gmail.com",
+      "address" : {
+         "city" : "Indore",
+         "pincode" : 453001
+      }
+  },
+  "Roles" : ["Admin", "Editor"],
+  "is_active" : true 
+}
